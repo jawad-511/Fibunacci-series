@@ -1,6 +1,6 @@
 import java.util.Locale;
 import java.util.Scanner;
-import static java.lang.Math.*;;
+import static java.lang.Math.*;
 public class PracticeJava{
     //                                    0 1 2 3 4 5 6 7  8  9
    //Fibunacci = have base case 0 1  >    0 1 1 2 3 5 8 13 21 34 
@@ -20,6 +20,7 @@ public class PracticeJava{
     public static void main(String[] args) {
       Scanner input = new Scanner(System.in).useLocale(Locale.US);
       System.out.println("The fibunacci is: " + fib(5));
+      System.out.println("hi github");
     }
   
       }
