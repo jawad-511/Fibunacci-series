@@ -20,7 +20,7 @@ public class PracticeJava{
     public static void main(String[] args) {
       Scanner input = new Scanner(System.in).useLocale(Locale.US);
       System.out.println("The fibunacci is: " + fib(5));
-      System.out.println("hi github");
+     
     }
   
       }
